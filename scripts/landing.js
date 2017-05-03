@@ -31,3 +31,5 @@ forEach(points, revealPoint);
          }
      });
  }
+ 
+ 
